@@ -1,0 +1,15 @@
+# USER
+username: demo
+password: DM
+playlist: Favorites
+song: Imagine - John Lennon
+song: Hello - Adele
+playlist: Workout
+song: Stronger - Kanye West
+
+# USER
+username: alice
+password: 1234
+playlist: Chill
+song: Yellow - Coldplay
+song: Someone Like You - Adele

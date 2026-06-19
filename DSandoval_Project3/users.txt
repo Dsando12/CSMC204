@@ -1,0 +1,20 @@
+# USER
+username: demo
+password: DM
+playlist: Pop Playlist
+song: Blinding Lights - The Weeknd
+song: Levitating - Dua Lipa
+song: Imagine - John Lennon
+song: Hello - Adele
+playlist: Workout
+song: Stronger - Kanye West
+song: Can't Hold Us - Macklemore
+playlist: Jazz Chill
+song: Take Five - Dave Brubeck
+
+# USER
+username: alice
+password: 1234
+playlist: Chill Vibes
+song: Watermelon Sugar - Harry Styles
+song: Lost in Japan - Shawn Mendes
